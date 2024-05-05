@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.staticdicostoragemono",                              
+  "displayName": "Static Dico Storage Mono",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Block by performance issue in Mono inspector script but need to store a very large array in it.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_05_05_StaticDicoStorageMono.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
